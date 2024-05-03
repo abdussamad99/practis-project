@@ -1,6 +1,13 @@
 body{
-    background-color: aquamarine;
+    background-color:tomato;
 }
 p{
-    text-align: center;
+    text-align:center;
+    color:beige;
+}
+h1,h2,h3,h4{
+    background-color: green;
+    color: cornsilk;
+    padding: 15px;
+    margin: 0%;
 }
